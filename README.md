@@ -2,7 +2,7 @@
 Eyes
 
 # Destription
-[MIT xPro Full Stack Development] This project has two eyes that move in tandem with the mouse movements. This showcases a perfect sync which is possible by tracking mouse movements of the user. The technologies used are HTML, CSS, and Javascript. 
+This project has two eyes that move in tandem with the mouse movements. This showcases a perfect sync which is possible by tracking mouse movements of the user. The technologies used are HTML, CSS, and Javascript. 
 
 # How to run
 * Method 1: Clone the repo and open the _index.html_ file in any browser of your choice.
